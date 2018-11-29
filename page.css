@@ -1,0 +1,229 @@
+
+body{
+	margin: 0;
+}
+
+right{height: 595px;
+
+background-image:url("009_MK1LotusCortina_2018_D4J_9521-250x500.jpg");
+	 right: 0;
+	border-left:1px solid #142b47;
+	width: 300px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	border-bottom-left-radius:90px; 
+	  background-size: contain;
+	background-repeat: no-repeat;
+	display: inline-block;
+	
+}
+
+
+.activee{
+	color: white;width:284px;
+	
+	background:rgba(9,0,9,.9);
+}
+.right2{
+	
+	
+background:rgba(0,0,99,.1);
+height: 500px;
+ background-size: contain;
+	background-repeat: no-repeat;
+}
+left{	
+
+
+ background-image:url("TKMtIXYe92FaYETQqjJhovFCSd2AILcjnnOvz4KObGQQXhhKX3EN74jgFJaofYWx.jpg");
+ overflow: auto;
+ width: 337px;
+	height: 595px;
+	
+	border:1px solid #142b47;
+
+
+
+
+	background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+}
+.imga{
+	padding-top: 1px;
+	
+	background-color: #142b47;
+background:transparent;
+background:rgba(6,20,77,.5);
+}
+.center{
+	padding-left: 350px;
+
+	height: 100%;
+	width:500px;
+}
+
+.position1{
+	padding-left: 15px;
+	border:5px solid green;
+	width: 680px;
+	overflow: auto;
+	border-radius: 20px;
+
+}
+
+
+.tds1{
+
+	border: 1px solid black;
+	
+width: 640px;
+height: 300px;
+}
+
+.td2{
+		border: 1px solid black;
+}
+.inputsms{
+	float: left;
+	width: 580px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#menu{
+	width:100%;
+	background: #142b47;
+    overflow: auto;
+
+
+}
+
+.ssd{
+	  
+	   border:1px solid red;
+       height: 450px;
+       width: 570px;
+    }
+    .ssf{
+    	width: 200px;
+    	 border:1px solid red;
+    	 margin-left: 2px;
+
+    }
+    .ssm{
+    	 border:1px solid red;
+    	
+
+    }
+
+
+
+#sms{
+padding-left: 200px;
+	width: 1000px;
+}
+
+#menu ul{
+	margin: 0;
+	padding:6;
+	list-style: none;
+	line-height: 60px;
+
+}
+#menu li{
+	float: left;
+}
+#menu ul li a{
+	background: #142b47;
+	text-decoration: none;
+	width: 130px;
+	display: block;
+	text-align: center;
+	color: f2f2f2;
+	font-family: sans-serif;
+	letter-spacing: 0.5px;
+}
+#menu li a:hover{
+	color:#fff;
+	opacity: 0.5;
+	font-size: 19px;
+}
+
+.search-form{
+	padding-top: 10px;
+	float: right;
+
+
+
+}
+.input1{
+	border:none;
+		height: 20px;
+		ackground: rgba(0,0,0,0);
+		outline: none;
+}
+
+.input2{
+
+	height: 50px;
+	width:500px;
+}
+
+
+.search{
+
+	    border:none;
+		height: 26px;
+		cursor: pointer;
+		background-color: white;
+		background: rgba(0,0,0,.1);
+		outline: 0px blue dotted;
+
+}
+
+
+
+.d1{
+		border:1px solid white;
+		animation: none;
+		background-color: white;
+	}
+	.userrr{
+		width:200px;
+	    border:none;
+		height: 40px;
+		cursor: pointer;
+		background-color: white;
+		background: rgba(0,0,0,.8);
+		outline: 0px blue dotted;
+		color: white;
+
+	}
+	.userr{
+		text-align: left;
+		
+		height: 35px;
+		background: rgba(0,0,0,.0);
+		border:none;
+	}
