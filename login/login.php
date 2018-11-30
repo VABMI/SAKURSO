@@ -59,9 +59,9 @@ if($row['password']==$password&&$row['password']!=null){
 	$_SESSION['your']=$row['ID'];
 	$_SESSION['yourname']=$row['name'];
 	$_SESSION['yourlastname']=$row['lastname'];
-	header('Location: http://localhost/New%20folder%20(2)/index1.php');
+	header('Location: http://localhost:8080/SAKURSO/index1.php');
 
-
+//http://localhost:8080/SAKURSO/index1.php
 exit();
 
 }
